@@ -1,5 +1,15 @@
 .App {
+  /* margin: 1em auto;
+  width: 95%;
+  min-height: 100%; */
   text-align: center;
+  background-image: url(/cool-background.png);
+}
+
+.topiclist {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .App-logo {
